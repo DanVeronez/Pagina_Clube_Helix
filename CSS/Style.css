@@ -1,0 +1,32 @@
+.navbar{
+    background-color:rgb(30,144,255);
+}
+
+.quem-somos{
+    background-color: rgb(184, 229, 255);
+   
+}
+.camiseta-oficial{
+    background-color: rgb(184, 229, 255);
+}
+.marging{ 
+   padding-bottom: 50px;
+   padding-top: 50px;  
+}
+.logoH{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.APP-s{
+    background-color: rgb(184, 229, 255);
+}
+.atividade{
+    background-color: rgb(184, 229, 255);
+}   
+.bg-footer{
+    background-color: rgb(30,144,255);;
+  
+}
